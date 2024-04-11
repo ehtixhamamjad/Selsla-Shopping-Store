@@ -1,0 +1,9 @@
+create the django project
+django-admin startproject name
+
+run the project:
+ python manage.py runserver
+
+
+create an app in the django project
+ python manage.py startapp name

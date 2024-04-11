@@ -1,0 +1,22 @@
+pip install virtualenv
+
+virtualenv flower
+
+.\flower\Scripts\activate (type: .\v “tab Button” .\scr “tab button” .\ act “tab button”)
+
+pip install flask
+
+Second Method:
+one time (First time only): pip install virtualenvwrapper
+
+virtualenv venv
+
+reopen the virtual env:
+workon venv
+
+
+create the django project
+django-admin startproject name
+
+run the project:
+ python manage.py runserver
